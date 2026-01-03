@@ -3,7 +3,7 @@
         alt="logo" width="40%" />
 </p>
 
-<h1 align="center">Marketing Analytics</h1>
+<h1 align="center">Marketing Funnel & ROI Analytics</h1>
 
 
 IPSL-PAY is a fast-growing digital financial services company operating across multiple African markets. The company offers mobile-first financial products including instant micro-loans, savings wallets, bill payments, and merchant payment solutions targeted at underbanked and emerging middle-income users.
