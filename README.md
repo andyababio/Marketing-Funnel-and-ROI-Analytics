@@ -184,4 +184,4 @@ Based on the insights uncovered in the marketing analytics report for IPSL-PAY, 
 
 Have a look at the process flow and futher details [here](https://github.com/andyababio/Marketing-Analytics/blob/main/process_flow.md)
 
-
+Have a look at the interactive dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiOTQ3ZWJiYjEtNDM1ZS00YzM1LWIxOTUtNzE5MmE0NjkwZDkxIiwidCI6ImIyZTAzYTU1LTg1YzYtNGVkMy1iMTJjLWNhYTY5ZDdlNTJjZCIsImMiOjl9)
