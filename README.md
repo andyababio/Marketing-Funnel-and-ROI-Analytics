@@ -182,6 +182,6 @@ Based on the insights uncovered in the marketing analytics report for IPSL-PAY, 
 
 <h1 align="center">Process Flow</h1>
 
-Have a look at the process flow and futher details [here](https://github.com/andyababio/Marketing-Analytics/blob/main/process_flow)
+Have a look at the process flow and futher details [here](https://github.com/andyababio/Marketing-Analytics/blob/main/process_flow.md)
 
 
